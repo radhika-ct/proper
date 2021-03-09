@@ -6,3 +6,4 @@
     path: /home/ansible/sample1.txt
     state: touch
 ---
+intervell
